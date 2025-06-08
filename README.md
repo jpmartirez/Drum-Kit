@@ -31,11 +31,3 @@ This is a simple interactive Drum Kit web app that lets users play drum sounds u
 
 This project was created as part of the [The Complete 2024 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by **Dr. Angela Yu** on **Udemy**.  
 All design concepts and initial code structure were based on the course materials.
-
-## 📁 Project Setup
-
-Just clone this repository and open `index.html` in your browser:
-
-```bash
-git clone https://github.com/your-username/drum-kit.git
-cd drum-kit
