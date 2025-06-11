@@ -13,6 +13,7 @@ This is a simple interactive Drum Kit web app that lets users play drum sounds u
 
 ![sample](https://github.com/user-attachments/assets/c0ed465c-d1c0-455c-9faf-9c5481f6d99b)
 
+You can TRY HERE: [Drum Kit](https://jpmartirez.github.io/Drum-Kit/)
 
 ## 🛠️ Tech Stack
 
